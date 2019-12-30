@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore directories and files ending with ".ignoreme"
+*.ignoreme
+*.ignoreme/
