@@ -1,5 +1,5 @@
 # qr-transfer
-General data transfer via qr codes
+General data transfer via QR codes
 
 # Dependencies
 Python 3.7 is used for this project.
