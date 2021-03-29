@@ -12,7 +12,7 @@ Kivy-Garden==0.1.4
 numpy==1.18.0
 opencv-python==4.1.2.30
 Pillow==8.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 pypiwin32==223
 pywin32==227
 qrcode==6.1
